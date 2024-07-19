@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
 		<Metadata name="Catalog.Валюты" id="a4985a05-220d-4825-a0b8-756a2a82001f" configVersion="0cda495350077e4d818f9edef7c0ef4500000000">
 			<Metadata name="Catalog.Валюты.Attribute.ИдентификаторЦБ" id="de248712-323b-4030-a0cd-ad6510922eec"/>
@@ -8,8 +8,8 @@
 		<Metadata name="CommonModule.РаботаСHTTP.Module" id="102ee283-ad84-4570-b320-e32aa31d85ca.0" configVersion="7f36606d0973264d8e067b72362f33ae00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="70a8371f-d8d9-4ad0-a36e-abe40c2512a1" configVersion="ef67e1f5cdef514cb421230ad1474fb400000000"/>
 		<Metadata name="DataProcessor.ПолучениеКурсовВалют" id="e1233ca4-677e-417d-8893-a96db57795bc" configVersion="e79d45f1a3734747b7ef44ac031f8d6a00000000"/>
-		<Metadata name="DataProcessor.ПолучениеКурсовВалют.Form.Форма" id="94f7609c-41e2-4193-bab7-6b38dffe021d" configVersion="cd5fcade79e6ce4ea148b98d329584bb00000000"/>
-		<Metadata name="DataProcessor.ПолучениеКурсовВалют.Form.Форма.Form" id="94f7609c-41e2-4193-bab7-6b38dffe021d.0" configVersion="420c89865acd3c47b41565d4c876d82300000000"/>
+		<Metadata name="DataProcessor.ПолучениеКурсовВалют.Form.Форма" id="94f7609c-41e2-4193-bab7-6b38dffe021d" configVersion="bc9395d77330224e974f053e2263276900000000"/>
+		<Metadata name="DataProcessor.ПолучениеКурсовВалют.Form.Форма.Form" id="94f7609c-41e2-4193-bab7-6b38dffe021d.0" configVersion="c072656dc733c9419a47efd1aa9efa1c00000000"/>
 		<Metadata name="Language.Русский" id="694928b9-a1e4-4cfd-b8d6-409cdbd9da7a" configVersion="d3decfbe2642c44fa1c5b1d2af56bc9e00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
